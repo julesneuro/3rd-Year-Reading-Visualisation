@@ -1,0 +1,2 @@
+# 3rd-Year-Reading-Visualisation
+In the final year of my degree the amount of papers I've read everyday has increased exponentially compared to previous years. To commemorate all of this hard work, I've made a small interatactive visualisation of all the papers I've read this year (largely as an excuse to try out Bokeh). They're sorted based on year published, citations as of the day of publishing &amp; journal impact factor.
